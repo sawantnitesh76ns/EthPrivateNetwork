@@ -46,7 +46,7 @@ Start mining
     <code>miner.start(Number of core you eant to used by miner)</code>
 
 Get account balance
-    <code> eth.getBalance(eth.accounts[0])
+    <code> eth.getBalance(eth.accounts[0]) </code>
 
 For more information visit
     https://geth.ethereum.org/docs/
