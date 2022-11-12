@@ -27,10 +27,10 @@ Get accounts
 
 use genesisi.json file to configure your network
 after create genesis.json file type following command 
-    <code> geth init --datadir Eth .\genesis.json
+    <code> geth init --datadir Eth .\genesis.json</code>
 
 To start it run 
-    <code> geth --datadir .\Eth\ --nodiscover
+    <code> geth --datadir .\Eth\ --nodiscover</code>
 
 nodiscover - The chain ID will not be available for other nodes , so that these will become a private network
 
